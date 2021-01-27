@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import PathfindingVisualizer from './PathfindingVisualizer/PathfindingVisualizer'
 
 function App() {
   return (
     <div>
-      <p>Add Pathfinding Here</p>
+      <PathfindingVisualizer />
     </div>
   );
 }
