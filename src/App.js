@@ -3,7 +3,7 @@ import PathfindingVisualizer from './PathfindingVisualizer/PathfindingVisualizer
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       <PathfindingVisualizer />
     </div>
   );

@@ -6,9 +6,7 @@ export default class Node extends Component{
 
     render() {
         return(
-            <div>
-                node
-            </div>
+            <div className="node"></div>
         )
     }
 }
